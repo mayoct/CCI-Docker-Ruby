@@ -1,0 +1,1 @@
+FROM cimg/ruby:3.1.1
